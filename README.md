@@ -9,3 +9,5 @@ I have already come across plenty of computer vision projects involving the huma
 
 - Link to Medium article: https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c
 - Link to Jupyter Notebook NBViewer: https://nbviewer.jupyter.org/github/kennethleungty/Car-Plate-Detection-OpenCV-TesseractOCR/blob/main/Car%20Plate%20Detection%20with%20OpenCV%20and%20TesseractOCR.ipynb
+
+Site - https://schedule-pro.ru/plater/?#
